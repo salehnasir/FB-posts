@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.618e39d8.css",
+    "main.js": "/static/js/main.0c881829.js",
+    "static/media/karachi.jpg": "/static/media/karachi.a56435e5fc529bf7c9d2.jpg",
+    "static/media/profile.jpeg": "/static/media/profile.e41f45edb801a8ff8bfe.jpeg",
+    "static/media/smit.jpg": "/static/media/smit.c3998061caea59aa8cba.jpg",
+    "index.html": "/index.html",
+    "main.618e39d8.css.map": "/static/css/main.618e39d8.css.map",
+    "main.0c881829.js.map": "/static/js/main.0c881829.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.618e39d8.css",
+    "static/js/main.0c881829.js"
+  ]
+}
